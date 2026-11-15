@@ -7,4 +7,4 @@ by inno
 
 **[Kunjungi Websites asli inno](https://jrsoftware.org/inno-setup/downloads)**
 
-**[Download di Github](
+**[Download di Github](https://github.com/rashiddd122/Pembuat-setup-inno-setup/releases/tag/1.129.0)**
